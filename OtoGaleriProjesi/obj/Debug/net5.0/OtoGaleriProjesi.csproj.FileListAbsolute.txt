@@ -1,0 +1,64 @@
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.AssemblyReference.cache
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.exe
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.deps.json
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.json
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.dev.json
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\refint\OtoGaleriProjesi.dll
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\ref\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.exe
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.deps.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.dev.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.AssemblyReference.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfo.cs
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\refint\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.genruntimeconfig.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6\Görev-5 [Galeri Otomasyon]\[Oto Galeri Otomasyon_WIP]\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\ref\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.exe
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.deps.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.dev.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.AssemblyReference.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfo.cs
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\refint\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.genruntimeconfig.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r00\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\ref\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.exe
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.deps.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.runtimeconfig.dev.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.AssemblyReference.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.AssemblyInfo.cs
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\refint\OtoGaleriProjesi.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\OtoGaleriProjesi.genruntimeconfig.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\Görev 5-6\Görev 5-6_r01\OtoGaleriUygulaması _r01\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net5.0\ref\OtoGaleriProjesi.dll
